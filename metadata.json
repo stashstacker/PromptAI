@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Forge AI v1",
+  "description": "An iterative environment to forge raw ideas into perfectly tempered instruction sets for AI. Craft detailed prompts for software development, creative writing, world-building, and more, then refine them with AI assistance.",
+  "requestFramePermissions": []
+}
